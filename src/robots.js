@@ -7,7 +7,7 @@ export const robots = [
   },
   {
     id: 2,
-    name: 'Ervin Howell',
+    name: 'Irene Potter',
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
