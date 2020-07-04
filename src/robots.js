@@ -13,7 +13,7 @@ export const robots = [
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
+    name: 'Rio Olivia',
     username: 'Samantha',
     email: 'Nathan@yesenia.net'
   },
@@ -55,8 +55,8 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Sementina DuBuque',
+    username: 'Sriah.Stanton',
+    email: 'Sy.Padberg@karina.biz'
   }
 ];
