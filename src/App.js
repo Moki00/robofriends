@@ -3,8 +3,6 @@ import CardList from './CardList';
 import SearchBox from './SearchBox';
 import {robots} from './robots';
 
-
-
 class App extends Component{
     constructor(){
         super()
@@ -12,11 +10,13 @@ class App extends Component{
             robots: robots,
             searchfield: ''
         }
+        console.log('1');
     }
 
     onSearchChange=(event) => {
         this.setState({searchfield: event.target.value})
     }
+
     render() {
         const filteredRobots = this.state.robots.filter(robots => {
             return robots.name.toLowerCase().includes(this.searchfield.toLowerCase());
