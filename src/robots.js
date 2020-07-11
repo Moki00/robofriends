@@ -13,9 +13,9 @@ export const robots = [
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Leo Queen',
+    username: 'Leozenna',
+    email: 'Leozenna@gmail.com'
   },
   {
     id: 4,
@@ -25,15 +25,15 @@ export const robots = [
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Maxamillion MacKnight',
+    username: 'MaxM',
+    email: 'Maxamillion@wonder.io'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Kotochan Nakanaka',
+    username: 'Kotochan',
+    email: 'Kotochan@banana.io'
   },
   {
     id: 7,
