@@ -1,5 +1,6 @@
 # robofriends
-Tutorial for udemy course - React
+I learned to create this by Andrei Neagoie on Udemy course - React
+
 To run the project:
 
 1. Clone this repo
