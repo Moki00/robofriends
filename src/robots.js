@@ -1,21 +1,35 @@
 export const robots = [
   {
     id: 1,
+<<<<<<< HEAD
     name: 'Leanne Graham',
+=======
+    name: 'Mr Bubble Head',
+>>>>>>> 9ad731e410354a382fdcf37c58589014ae5a8842
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
+<<<<<<< HEAD
     name: 'Ervin Howell',
+=======
+    name: 'Not working',
+>>>>>>> 9ad731e410354a382fdcf37c58589014ae5a8842
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
+<<<<<<< HEAD
     name: 'Clementine Bauch',
     username: 'Samantha',
     email: 'Nathan@yesenia.net'
+=======
+    name: 'Leo Queen',
+    username: 'Leozenna',
+    email: 'Leozenna@gmail.com'
+>>>>>>> 9ad731e410354a382fdcf37c58589014ae5a8842
   },
   {
     id: 4,
@@ -25,15 +39,15 @@ export const robots = [
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Maxamillion MacKnight',
+    username: 'MaxM',
+    email: 'Maxamillion@wonder.io'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Kotochan Nakanaka',
+    username: 'Kotochan',
+    email: 'Kotochan@banana.io'
   },
   {
     id: 7,
