@@ -1,19 +1,19 @@
 export const robots = [
   {
     id: 1,
-    name: 'Johnny Smash',
+    name: 'Leanne Graham',
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
-    name: 'Irene Potter',
+    name: 'Ervin Howell',
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
-    name: 'Rio Olivia',
+    name: 'Clementine Bauch',
     username: 'Samantha',
     email: 'Nathan@yesenia.net'
   },
@@ -55,8 +55,8 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Sementina DuBuque',
-    username: 'Sriah.Stanton',
-    email: 'Sy.Padberg@karina.biz'
+    name: 'Clementina DuBuque',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
   }
 ];
