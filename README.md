@@ -1,4 +1,4 @@
-# robofriends
+# RoboFriends
 ## React Framework
 ## Filters on names
 
