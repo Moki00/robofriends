@@ -1,35 +1,21 @@
 export const robots = [
   {
     id: 1,
-<<<<<<< HEAD
-    name: 'Leanne Graham',
-=======
     name: 'Mr Bubble Head',
->>>>>>> 9ad731e410354a382fdcf37c58589014ae5a8842
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
-<<<<<<< HEAD
     name: 'Ervin Howell',
-=======
-    name: 'Not working',
->>>>>>> 9ad731e410354a382fdcf37c58589014ae5a8842
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
-<<<<<<< HEAD
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
-=======
     name: 'Leo Queen',
     username: 'Leozenna',
     email: 'Leozenna@gmail.com'
->>>>>>> 9ad731e410354a382fdcf37c58589014ae5a8842
   },
   {
     id: 4,
